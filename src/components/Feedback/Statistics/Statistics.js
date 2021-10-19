@@ -1,4 +1,3 @@
-import {} from 'react';
 import PropTypes from 'prop-types';
 import Notification from '../Notification/Notification';
 
